@@ -1,1 +1,2 @@
 Esto es una archivo de prueba en version 1
+Esto es un archivo de prueba en version 2
